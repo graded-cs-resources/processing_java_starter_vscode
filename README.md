@@ -37,6 +37,8 @@ It may take a minute to open the file, enable all the java extensions, and read 
 
 ### Try running the project
 
-Open the `Sketch.java` file, which is inside the `src` folder, then press `F5` or choose Run->Start Debugging . You should get a window with some bouncing balls!
+Open the `Sketch.java` file, which is inside the `src` folder, then press `F5` or choose Run->Start Debugging . If all goes well, you should be able to move your mouse around a window and watch some circles appear.
 
-You are ready to start tweaking the code in `Sketch.java` and `ball.java`. Good luck!
+Check the Processing web page for more information on writing processing code!
+
+You are ready to start tweaking the code in `Sketch.java`. Good luck!
